@@ -17,7 +17,6 @@ O código implementa o algoritmo que representa um semáforo que muda de estado 
 ## Pinagem
 
 - Vermelho: Pino GPIO 13
-- Azul: Pino GPIO 12
 - Verde: Pino GPIO 11
 
 ## Configuração do Ambiente
